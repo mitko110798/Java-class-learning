@@ -1,0 +1,26 @@
+
+public class Main{
+      
+      private String 
+      
+      public static void main(String[] args)
+      {
+            Print("This is just an example of class and method inside it");
+      }
+      
+      public Main(String txt1, int num)
+      {
+      }
+      
+      
+      
+      
+      public static String Print(String text)
+      {
+            System.out.println(text);
+      }
+      
+      
+      
+      
+}
